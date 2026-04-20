@@ -1,3 +1,56 @@
-   title: Ashfaq Nasir
-   description: Software Developer Portfolio
-   theme: minima
+ title: Ashfaq Nasir
+email: ashfaq.nasir@communicationsquare.com
+description: "Microsoft Certified Professional | Azure, AI, Security & Data Engineer | Rawalpindi, PK"
+baseurl: "" 
+url: "https://ashfaqnasir-dev.github.io"
+
+# Theme - clean + professional
+theme: minima
+plugins:
+    - jekyll-feed
+    - jekyll-seo-tag
+
+# Author info
+author:
+  name: Ashfaq Nasir
+  email: ashfaq.nasir@communicationsquare.com
+  picture: /assets/img/profile.jpg
+
+# Social links
+github_username: ashfaqnasir-dev
+linkedin_username: # add yours if you want
+microsoft_learn: ashfaqnasir
+
+# Microsoft Certifications - with badge images
+certifications:
+    - name: Microsoft Power BI Data Analyst
+    code: PL-300
+    date: 2024-12-27
+    badge: /assets/img/badges/pl300.png
+    - name: Azure AI Engineer Associate  
+    code: AI-102
+    date: 2024-05-13
+    badge: /assets/img/badges/ai102.png
+    - name: Azure Data Scientist Associate
+    code: DP-100
+    date: 2024-02-26
+    badge: /assets/img/badges/dp100.png
+    - name: Microsoft 365 Messaging
+    code: MS-203
+    date: 2022-12-28
+    badge: /assets/img/badges/ms203.png
+    - name: Security, Compliance, Identity Fundamentals
+    code: SC-900
+    date: 2022-11-29
+    badge: /assets/img/badges/sc900.png
+    - name: DevOps Engineer Expert
+    code: AZ-400
+    date: 2022-08-31
+    badge: /assets/img/badges/az400.png
+    - name: Azure Fundamentals
+    code: AZ-900
+    date: 2021-02-15
+    badge: /assets/img/badges/az900.png
+    - name: MCSE: Productivity Charter Member
+    date: 2016-09-26
+    badge: /assets/img/badges/mcse.png
