@@ -19,4 +19,4 @@ permalink: /certifications/
 </div>
 
 **Total:** 8 Active Certs | 15 Historical | 23 Exams Passed  
-**Verify:** [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/ashfaqnasir/)
+**Verify:** [Microsoft Learn Profile]()
